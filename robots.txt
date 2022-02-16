@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://data-keluar-sgp.github.io/info-5/sitemap.xml
